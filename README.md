@@ -1,4 +1,4 @@
-# 메이플끄투 (Maple KKuTu)
+# 메이플끄투
 - Made by [JJoriping](http://blog.jjo.kr/)
 - Special thanks to
 	* [샌드박스 :: SDBX](http://cafe.naver.com/sdbx)

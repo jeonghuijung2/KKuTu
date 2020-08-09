@@ -1,4 +1,4 @@
-# KKuTu
+# 메이플끄투 (Maple KKuTu)
 - Made by [JJoriping](http://blog.jjo.kr/)
 - Special thanks to
 	* [샌드박스 :: SDBX](http://cafe.naver.com/sdbx)
@@ -57,7 +57,7 @@
 	- 다만 본 레포지토리에서 제공하는 소스 코드로 끄투 서비스를 운영하기 위해 이들을 사용하는 경우 저작자 표시(BY)를 생략할 수 있습니다.
 
 ## English
-> Rule the words! KKuTu Online
+> Rule the words! Maple KKuTu
 
 **KKuTu** is a casual game containing various word games that let players use their vocabulary.
 Players can play alone with a robot, or play with other players who have entered to a server.

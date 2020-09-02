@@ -1,5 +1,5 @@
-# 메이플끄투
-- Made by [JJoriping](http://blog.jjo.kr/)
+# 랜덤 스튜디오 끄투
+- Made by [Random Studio](https://kkutu607.kro.kr)
 - Special thanks to
 	* [샌드박스 :: SDBX](http://cafe.naver.com/sdbx)
 	* [SWMaestro](http://www.swmaestro.kr)
@@ -11,11 +11,11 @@
 	* [English](#english)
 
 ## 한국어
-> 글자로 놀자! 메이플끄투
+> 글자로 놀자! 랜덤 스튜디오 끄투
 
-**메이플끄투**는 여러분의 어휘력을 발휘할 수 있는 다양한 단어 게임들이 모여 있는 캐주얼 게임입니다.
+**랜덤 스튜디오 끄투**는 여러분의 어휘력을 발휘할 수 있는 다양한 단어 게임들이 모여 있는 캐주얼 게임입니다.
 로봇과 혼자서 게임을 할 수도 있고, 서버에 접속해 있는 다른 사람들과 함께 할 수도 있죠.
-이 저장소는 여러분이 **메이플끄투**를 즐기기 위해 준비해야 할 것들에 대해 알리고 있습니다.
+이 저장소는 여러분이 **랜덤 스튜디오 끄투**를 즐기기 위해 준비해야 할 것들에 대해 알리고 있습니다.
 
 ### 설치 방법
 #### Windows 환경
@@ -57,11 +57,11 @@
 	- 다만 본 레포지토리에서 제공하는 소스 코드로 끄투 서비스를 운영하기 위해 이들을 사용하는 경우 저작자 표시(BY)를 생략할 수 있습니다.
 
 ## English
-> Rule the words! Maple KKuTu
+> Rule the words! Random Studio KKuTu
 
-**Maple KKuTu** is a casual game containing various word games that let players use their vocabulary.
+**Random Studio KKuTu** is a casual game containing various word games that let players use their vocabulary.
 Players can play alone with a robot, or play with other players who have entered to a server.
-This repository provides you what you have to prepare to play **Maple KKuTu**.
+This repository provides you what you have to prepare to play **Random Studio KKuTu**.
 
 ### How to Install
 #### For Windows

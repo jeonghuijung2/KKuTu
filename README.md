@@ -1,5 +1,5 @@
 # 랜덤 스튜디오 끄투
-- Made by [Random-Studio](https://kkutu607.kro.kr)
+- Made by [Random Studio](https://kkutu607.kro.kr)
 - Special thanks to
 	* [샌드박스 :: SDBX](http://cafe.naver.com/sdbx)
 	* [SWMaestro](http://www.swmaestro.kr)
